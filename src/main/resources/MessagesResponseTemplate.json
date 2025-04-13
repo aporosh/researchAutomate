@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": 9,
+      "title": "testTitle",
+      "publishDateUtc": 1743496189,
+      "messageType": "None",
+      "previewBody": "testBody",
+      "isReaded": false,
+    },
+    {
+      "id": 8,
+      "title": "testTitle",
+      "publishDateUtc": 1743494560,
+      "messageType": "None",
+      "previewBody": "testBody",
+      "isReaded": true,
+    }
+  ],
+  "pageInfo": {
+    "pageIndex": 0,
+    "pageSize": 5
+  },
+  "totalItems": 2,
+  "totalPages": 1
+}
